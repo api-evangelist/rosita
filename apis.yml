@@ -21,6 +21,8 @@ accessModel:
   source: []
   generated: '2026-07-22'
   method: derived
+  source:
+  - {url: 'http://rositalongevity.com', status: 301, note: 'declared website redirects to https://rx-longevity.com/ — a different registrable domain (rositalongevity.com -> rx-longevity.com), possible rename or acquisition (probed 2026-09-03, roadmap#169)'}
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/rosita.png
 name: Rosita
 description: Rosita is a company surfaced as a portfolio company of seedcamp and added to the API Evangelist
